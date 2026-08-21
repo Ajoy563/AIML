@@ -1,0 +1,10 @@
+{
+    "name" : "Ajoy",
+    "isStudent" : true,
+    "isGF" : null,
+    "address" : {
+        "city" : "kolkata",
+        "Country" : "India"
+    },
+    "subjects": ["Python", "AI/ML"]
+}
