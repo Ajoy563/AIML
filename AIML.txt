@@ -1,0 +1,34 @@
+Apna College AIML Course (PRIME)
+
+What are we going to learn?
+
+• Python
+• Data Pre-processing
+• Data Visualization
+• Math for AI (Statistics & Probability)
+• Precision, Recall, F1
+• Bias/Variance Tradeoff
+• Machine Learning
+• Supervised (Regression, Classification)
+• Unsupervised (Clustering, Association)
+• Reinforcement Learning
+• Logistic Regression
+• SVM, Decision Tree
+• K-means Clustering
+• OpenAI APIs
+• Deep Learning
+• Perceptron
+• FNN, CNN & RNN Architecture
+• Transformer
+• TensorFlow
+• GenAI
+• LLMs
+• NLP
+• RAG
+• GAN
+• Flask (Development with AI)
+• SQL for Data Science
+• Git & GitHub
+• Docker
+• Kubernetes
+• Multiple minor & major projects
